@@ -4,7 +4,7 @@ Playing @ 1.14.3 version right now
 # Features (things built already)
 
 ## Nether map:
-<img src="/nethermap.png" alt="Nether Map"
+<img src="/misc/nethermap.png" alt="Nether Map"
 	title="Map of the nether" width="600" height="350" />
 
 
