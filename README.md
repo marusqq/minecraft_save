@@ -4,12 +4,9 @@ Playing @ 1.14.3 version right now
 # Features (things built already)
 
 ## Nether map:
-```mermaid graph LR
-A --> C(Nether Castle)
-A(Overworld)  --> B(Village)
-A --> E(Skeleton XP Farm)
-B --> D(End Portal)
-```
+<img src="/nethermap.png" alt="Nether Map"
+	title="Map of the nether" width="600" height="350" />
+
 
 ## Various accomplishments:
 
