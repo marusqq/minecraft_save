@@ -6,8 +6,6 @@ Playing @ 1.14.3 version right now
 ## Nether map:
 ```mermaid
 graph LR
-
-
 A --> C(Nether Castle)
 A(Overworld)  --> B(Village)
 A --> E(Skeleton XP Farm)
@@ -50,5 +48,3 @@ B --> D(End Portal)
 - Nether warts
 - Wheat
 - Llamas
-
-```
