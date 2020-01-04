@@ -536,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2020-01-03 23:09:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2019-12-15 18:29:07 +0200"
@@ -1494,6 +1500,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-12-08 03:07:07 +0200",
       "minecraft:mountains": "2019-11-21 03:34:58 +0200",
+      "minecraft:taiga": "2020-01-03 22:42:17 +0200",
       "minecraft:desert_hills": "2019-11-21 03:51:44 +0200",
       "minecraft:desert": "2019-11-16 14:37:09 +0200",
       "minecraft:deep_frozen_ocean": "2019-12-08 03:07:11 +0200",
@@ -3000,6 +3007,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-01-03 23:29:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-11-16 14:39:58 +0200"
@@ -3177,6 +3190,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2019-11-21 04:47:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-01-03 22:46:52 +0200"
     },
     "done": true
   },
