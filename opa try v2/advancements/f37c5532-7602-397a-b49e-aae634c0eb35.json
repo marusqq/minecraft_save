@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-01-15 20:59:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-11-21 04:41:38 +0200"
@@ -746,10 +752,12 @@
       "minecraft:skeleton": "2019-11-16 15:18:58 +0200",
       "minecraft:zombie_pigman": "2019-11-16 16:48:11 +0200",
       "minecraft:ghast": "2019-12-08 19:59:15 +0200",
+      "minecraft:magma_cube": "2020-01-15 20:59:25 +0200",
       "minecraft:spider": "2019-11-16 14:39:54 +0200",
       "minecraft:creeper": "2019-11-16 15:18:18 +0200",
       "minecraft:phantom": "2019-11-16 17:09:14 +0200",
       "minecraft:witch": "2019-12-08 19:36:50 +0200",
+      "minecraft:wither_skeleton": "2020-01-15 20:57:50 +0200",
       "minecraft:husk": "2019-11-16 14:38:28 +0200",
       "minecraft:shulker": "2019-12-07 22:42:24 +0200",
       "minecraft:enderman": "2019-12-07 22:23:33 +0200",
@@ -1550,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-01-15 23:32:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-11-16 14:50:09 +0200"
@@ -1601,6 +1615,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-11-16 14:39:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-01-15 23:33:09 +0200"
     },
     "done": true
   },
@@ -2168,6 +2188,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-01-15 23:11:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-01-03 00:36:11 +0200"
@@ -2401,6 +2427,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-01-15 21:03:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-11-16 18:27:06 +0200"
@@ -2488,6 +2520,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-11-16 14:50:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-01-15 23:12:19 +0200"
     },
     "done": true
   },
@@ -2929,6 +2967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-01-15 23:33:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-21 03:02:54 +0200"
@@ -3145,6 +3189,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-01-15 20:52:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-12-07 22:51:15 +0200"
@@ -3259,6 +3309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-01-15 23:32:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2019-11-16 16:12:24 +0200"
@@ -3274,6 +3330,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2019-12-07 22:42:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-01-15 21:03:35 +0200"
     },
     "done": true
   },
