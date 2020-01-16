@@ -1096,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-01-16 20:22:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2019-12-22 16:18:41 +0200"
@@ -2149,6 +2155,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2019-12-15 18:37:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-01-16 22:43:02 +0200"
     },
     "done": true
   },
